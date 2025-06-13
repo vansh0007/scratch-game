@@ -1,3 +1,6 @@
+<<<<<<< Updated upstream
+# scratch-game
+=======
 ## Scratch Game - README
 ### Overview
 * This is a Java implementation of a scratch card game that generates a matrix of symbols and calculates rewards based on winning combinations and bonus symbols.
@@ -66,27 +69,4 @@ json
 ````
 mvn test
 ````
-Project Structure
-text
-scratch-game/
-├── src/
-│ ├── main/
-│ │ ├── java/com/scratchgame/
-│ │ │ ├── core/ # Core game logic
-│ │ │ │ ├── GameConfig.java
-│ │ │ │ ├── GameEngine.java
-│ │ │ │ ├── MatrixGenerator.java
-│ │ │ │ ├── RewardCalculator.java
-│ │ │ │ ├── Symbol.java
-│ │ │ │ └── WinCombination.java
-│ │ │ ├── exceptions/ # Custom exceptions
-│ │ │ │ └── GameException.java
-│ │ │ └── Main.java # Entry point
-│ │ └── resources/ # Configuration files
-│ │ └── config.json
-│ └── test/ # Unit tests
-│ ├── GameEngineTest.java
-│ ├── MatrixGeneratorTest.java
-│ └── RewardCalculatorTest.java
-├── pom.xml # Maven configuration
-└── README.md # This file
+>>>>>>> Stashed changes
