@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # scratch-game
 =======
 ## Scratch Game - README
@@ -69,4 +68,3 @@ json
 ````
 mvn test
 ````
->>>>>>> Stashed changes
